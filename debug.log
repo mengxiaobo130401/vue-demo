@@ -1,0 +1,2 @@
+[0608/114633.091:ERROR:exception_handler_server.cc(524)] ConnectNamedPipe: 管道正在被关闭。 (0xE8)
+[0609/174049.461:ERROR:exception_handler_server.cc(524)] ConnectNamedPipe: 管道正在被关闭。 (0xE8)
